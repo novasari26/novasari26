@@ -22,7 +22,7 @@ I’m a **Junior Full Stack Web Programmer** with a passion for learning and cre
 
 ## My Mood:  
 
-![Nezuko Running](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q5Y2Y5YjY5YjY5Y2Q5Y2Y5YjY5YjY5Y2Q5Y2Y5YjY5YjY5/giphy.gif)
+![Nezuko Running](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJneDN4d2s2eGQ0dzRlYXZybHU3bWQxdGx1N29hOXV2cWY5NndpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nekkldT5J7Pd1kdBGf/giphy.gif)
 
 ---
 
