@@ -27,8 +27,8 @@ I’m a **Junior Full Stack Web Programmer** with a passion for learning and cre
 ---
 
 - 📫 **Get in Touch:**  
-  - **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
-  - **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
+  - **Email:** [YourEmail@example.com](mailto:kornelianovasari@gmail.com)  
+  - **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/kornelia-novasari-30505b267/)  
   - **GitHub:** You're already here! 😉
 
 ---
