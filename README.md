@@ -1,4 +1,4 @@
-# Hi there, I'm Kornellia Novasari 👋
+# Hi there, I'm Kornelia Novasari 👋
 
 I’m a **Junior Full Stack Web Programmer** with a passion for learning and creating impactful web applications. Here’s a little about me:  
 
